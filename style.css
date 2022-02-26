@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+}
+
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+#content {
+  text-align: center;
+}
+
+video {
+  margin: 0 auto;
+  display: block;
+}
